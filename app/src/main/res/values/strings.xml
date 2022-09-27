@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hack Betting Owner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hack Betting Owner</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="alltips_activity">All Tips</string>
+    <string name="safetips_activity">Safe Tips</string>
+    <string name="singletips_activity">Single Tips</string>
+    <string name="combotips_activity">Combo Tips</string>
+    <string name="footballtips_activity">Football Tips</string>
+    <string name="basketballtips_activity">Basketball Tips</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_all_tips">All Tips</string>
+    <string name="menu_safe_tips">Safe Tips</string>
+    <string name="menu_single_tips">Single Tips</string>
+    <string name="menu_combo_tips">Combo Tips</string>
+    <string name="menu_football_tips">Football Tips</string>
+    <string name="menu_basketball_tips">Basketball Tips</string>
+
+</resources>

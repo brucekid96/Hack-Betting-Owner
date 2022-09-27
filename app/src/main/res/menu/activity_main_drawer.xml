@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/grp1" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+
+    </group>
+
+    <group android:id="@+id/grp2" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_all_tips"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_all_tips" />
+        <item
+            android:id="@+id/nav_safe_tips"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_safe_tips" />
+        <item
+            android:id="@+id/nav_single_tips"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_single_tips" />
+    </group>
+
+    <group android:id="@+id/grp3" android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_combo_tips"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_combo_tips" />
+        <item
+            android:id="@+id/nav_football_tips"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_football_tips" />
+        <item
+            android:id="@+id/nav_basketball_tips"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_basketball_tips" />
+    </group>
+
+</menu>
