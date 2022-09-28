@@ -15,15 +15,15 @@
 
         <item
             android:id="@+id/nav_all_tips"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_baseline_grading_24"
             android:title="@string/menu_all_tips" />
         <item
             android:id="@+id/nav_safe_tips"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_baseline_security_24"
             android:title="@string/menu_safe_tips" />
         <item
             android:id="@+id/nav_single_tips"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_baseline_done_24"
             android:title="@string/menu_single_tips" />
     </group>
 
@@ -31,15 +31,15 @@
 
         <item
             android:id="@+id/nav_combo_tips"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_baseline_attachment_24"
             android:title="@string/menu_combo_tips" />
         <item
             android:id="@+id/nav_football_tips"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_baseline_sports_soccer_24"
             android:title="@string/menu_football_tips" />
         <item
             android:id="@+id/nav_basketball_tips"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_baseline_sports_basketball_24"
             android:title="@string/menu_basketball_tips" />
     </group>
 
