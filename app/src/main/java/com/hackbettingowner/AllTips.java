@@ -28,7 +28,7 @@ public class AllTips extends AppCompatActivity implements NavigationView.OnNavig
     super.onCreate(savedInstanceState);
     setContentView(R.layout.alltips);
 
-    text = findViewById(R.id.alltips_text);
+    
 
     Toolbar toolbar = findViewById(R.id.toolbar);
     setSupportActionBar(toolbar);

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/fab_label.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
@@ -26,6 +27,7 @@
         <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_safetips.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/content_singletips.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/event_card.xml" value="0.18" />
         <entry key="app/src/main/res/layout/footballtips.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.19375" />
